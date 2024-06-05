@@ -19,13 +19,14 @@ header {
 
 h1 {
   font-size: 60px;
+  padding: 10px 0;
 }
 
 .score-board {
   border: 3px solid white;
   border-radius: 4px;
   width: 200px;
-  margin: 20px auto;
+  margin: 50px auto;
   font-size: 30px;
   padding: 15px 20px;
   position: relative;
